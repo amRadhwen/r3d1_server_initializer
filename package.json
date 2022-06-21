@@ -1,0 +1,8 @@
+{
+  "name": "r3d1_server_initializer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amRadhwen/r3d1_server_initializer.git",
+  "author": "amRadhwen <radhweneamri9631@gmail.com>",
+  "license": "MIT"
+}
